@@ -1,3 +1,3 @@
 Total commits generated: 500000
-Sequence: 500000
-Timestamp: 2001-11-15T21:51:51.000Z
+Sequence: 1
+Timestamp: 1970-10-28T18:13:28.000Z
